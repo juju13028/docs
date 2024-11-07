@@ -1,4 +1,4 @@
----
+hello kitty
 title: Extensions
 description: 🧩 Manually installing Extensions.
 ---
